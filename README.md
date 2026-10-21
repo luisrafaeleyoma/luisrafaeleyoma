@@ -19,14 +19,14 @@ Based in Bata, Equatorial Guinea. I build web apps and offline-first tools, and 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://raiceseg.vercel.app/"><img src="assets/raices.png" alt="Raíces"></a>
+      <a href="https://raiceseg.vercel.app/"><img src="assets/raices.webp" alt="Raíces"></a>
       <h3><a href="https://github.com/luisrafaeleyoma/raices">Raíces</a></h3>
       Cultural heritage platform preserving the oral traditions and myths of Equatorial Guinea's ethnic groups.<br>
       <sub>Next.js · TypeScript · Supabase</sub><br>
       <a href="https://raiceseg.vercel.app/">Live site</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://communityeg.vercel.app/"><img src="assets/xenon.png" alt="Xenon.py community site"></a>
+      <a href="https://communityeg.vercel.app/"><img src="assets/xenon.webp" alt="Xenon.py community site"></a>
       <h3><a href="https://github.com/luisrafaeleyoma/cdgq">Xenon.py community site</a></h3>
       Official website of Xenon.py, built to attract volunteers and showcase local projects.<br>
       <sub>Next.js · TypeScript · Tailwind</sub><br>
